@@ -1,4 +1,5 @@
 
+
 # SCRIPTS PYTHON DE SCRAPPING URL
 
 
@@ -12,3 +13,4 @@ steup.py es un script que genera un ejecutable del archivo scriptentorno.py en e
 IMPORTANTE!!!!
 
 El ejecutable esta dentro de la carpeta build
+
